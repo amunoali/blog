@@ -2,8 +2,6 @@
 This is a blog that lets you generate new posts 
 
 
-
-
 <img src="/css/image/blog.png" alt="">
 
 
